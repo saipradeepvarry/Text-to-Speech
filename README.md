@@ -1,4 +1,5 @@
-# project-for-internship-task
+# Text To Speech application 
+
 Welcome to the official GitHub repository for Play.ht Text-to-Speech! This project empowers developers, content creators, and innovators with a seamless and customizable solution for converting text into high-quality, natural-sounding speech. Our advanced technology and user-friendly API make it easy to integrate speech generation into your applications, platforms, and projects.
 
 ## Key Features:
